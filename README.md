@@ -34,3 +34,9 @@ notes:
 - https://github.com/igordot/reference-genomes
 - https://github.com/igordot/tutorials
 - https://github.com/igordot/dotfiles
+
+other collaborative repos:
+
+- https://github.com/DCGenomics/DangerTrack
+- https://github.com/NCBI-Hackathons/SuMu
+- https://github.com/NYU-BFX/hic-bench
