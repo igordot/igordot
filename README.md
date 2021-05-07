@@ -15,18 +15,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-software tools:
-
-- https://github.com/igordot/sns
-- https://github.com/igordot/bamkin
-- https://github.com/igordot/nichexplorer
-- https://github.com/igordot/handexam
-
 R packages:
 
 - https://github.com/igordot/msigdbr
 - https://github.com/igordot/clustermole
 - https://github.com/igordot/scooter
+- https://github.com/igordot/babelgene
+
+tools:
+
+- https://github.com/igordot/sns
+- https://github.com/igordot/bamkin
+- https://github.com/igordot/nichexplorer
+- https://github.com/igordot/handexam
 
 notes:
 
