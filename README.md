@@ -22,6 +22,7 @@ R packages:
 - https://github.com/igordot/clustermole
 - https://github.com/igordot/scooter
 - https://github.com/igordot/babelgene
+- https://github.com/igordot/phenomenalist
 
 tools:
 
